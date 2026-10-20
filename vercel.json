@@ -1,0 +1,4 @@
+{
+  "framework": "nextjs",
+  "crons": [{ "path": "/api/v1/cron/maintenance", "schedule": "0 3 * * *" }]
+}
