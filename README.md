@@ -79,3 +79,5 @@ Safaricom Daraja ──callback──> /api/v1/callbacks/mpesa/<per-business sec
 * `docs/EXPIRY_POLICY.md`: exact expiry rules
 * `docs/TEST_PROCEDURE.md`: acceptance checklist and the physical router end-to-end test
 * `docs/SECURITY.md`: threat model, data retention, backup and recovery
+#   d e c a n - w i f i  
+ 
